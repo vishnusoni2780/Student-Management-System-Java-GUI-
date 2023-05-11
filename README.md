@@ -1,1 +1,1 @@
-# Student-Managemet-System
+# Student-Management-System-Java-GUI
